@@ -1,0 +1,121 @@
+[
+    {
+        "0":"Hypothalamus",
+        "1":"TRH, CRH, GHRH",
+        "2":"Dopamine",
+        "3":"Somatostatin",
+        "4":"Vasopressin"
+    },
+    {
+        "0":"Liver",
+        "1":"IGF, THPO",
+        "2":null,
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Adrenal",
+        "1":"Androgens",
+        "2":"Glucocorticoids",
+        "3":"Adrenaline",
+        "4":"Noradrenaline"
+    },
+    {
+        "0":"Thymus",
+        "1":"Prolactin, Oxytocin",
+        "2":"Thymopoietin",
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Histamine",
+        "1":"Somatostatin",
+        "2":"Neuropeptide Y",
+        "3":"Pancreas",
+        "4":"Insulin, Glucagon"
+    },
+    {
+        "0":"Hypothalamus",
+        "1":"TRH, CRH, GHRH",
+        "2":"Dopamine",
+        "3":"Somatostatin",
+        "4":null
+    },
+    {
+        "0":"Kidney",
+        "1":"Calcitriol, Renin",
+        "2":"Erythropoietin",
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Thymus",
+        "1":"Thymopoietin",
+        "2":null,
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Pituitary gland" ,
+        "1" :"GH, TSH, ACTH FSH, MSH, LH Prolactin, Oxytocin",
+        "2":"Vasopressin",
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Pancreas",
+        "1":"Insulin, Glucagon",
+        "2":null,
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Ovary, Placenta",
+        "1":"Estrogens",
+        "2":"Progesterone",
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Thyroid and",
+        "1":"Parathyroid",
+        "2":"Calcitonin",
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Testes",
+        "1":"Androgens",
+        "2":"Estradiol, Inhibin",
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Androgens",
+        "1":"Estradiol, Inhibin",
+        "2":null,
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Stomach",
+        "1":"Gastrin, Ghrelin",
+        "2":"Histamine",
+        "3":"Somatostatin",
+        "4":null
+    },
+    {
+        "0":"Stomach",
+        "1":"Ghrelin",
+        "2":"Histamine",
+        "3":null,
+        "4":null
+    },
+    {
+        "0":"Uterus",
+        "1":"Prolactin, Relaxin",
+        "2":null,
+        "3":null,
+        "4":null
+    }
+]
